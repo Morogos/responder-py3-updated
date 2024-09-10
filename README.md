@@ -1,3 +1,23 @@
+# to explain
+I didnt read the README so I did not see there was an updated version, this version was not working with python3 as it utilises deprecated syntax so I fixed it to the point of working which now seems to have been hilariously pointless.
+
+Note to self: ALWAYS READ THE README
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 :no_entry: [DEPRECATED] Active at https://github.com/lgandx/Responder
 
 
